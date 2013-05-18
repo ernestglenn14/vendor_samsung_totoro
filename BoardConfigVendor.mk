@@ -13,3 +13,4 @@
 # limitations under the License.
 
 TARGET_PROVIDES_LIBRIL := true
+BOARD_NO_RGBX_8888
